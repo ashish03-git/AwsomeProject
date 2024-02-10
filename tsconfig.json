@@ -1,0 +1,14 @@
+
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "jsx": "react-native",
+    "outDir": "./build",
+    "rootDir": "./src",
+    "strict": true,
+    "esModuleInterop": true
+  },
+  "extends": "expo/tsconfig.base"
+}
